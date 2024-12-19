@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = {"com.web.steps","com.web.hooks"},
         dryRun = false,
-        plugin = {"html:target/reports.html",
+        plugin = {"html:target/report/reports.html","timeline:target/report/threadreport",
         "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 
 )
