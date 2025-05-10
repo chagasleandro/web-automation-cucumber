@@ -1,13 +1,13 @@
 <!--
 <h2 align="center">
-  Welcome to Narottam Singh World!
+  Welcome to Chagas Leandro Singh World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
 <!--
 <p align="center">
-  <a href="https://github.com/narottamgla"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/chagasleandro"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/narottamgla/">Narottam Singh</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/leandro-chagas-/">Chagas Leandro Singh</a></b>
         </samp>
 </h3>
 
@@ -28,13 +28,13 @@
 <p align="center"> 
   <samp>
     <br >
-     <b>「 I am a full stack Test developer from <b>India</b> 」</b>
+     <b>「 I am a full stack Test developer from <b>Brazil</b> 」</b>
     </br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/narottamgla" target="_blank">
+ <a href="https://linkedin.com/in/leandro-chagas-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 </p>
@@ -48,7 +48,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: narottamgla@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: leandrosrs2012@gmail.com<br/><br/>
 
 </p>
 
@@ -133,7 +133,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/narottamgla/web-automation-cucumber.git
+   git clone https://github.com/chagasleandro/web-automation-cucumber.git
 
 2. **Navigate to the Project Directory**
 
